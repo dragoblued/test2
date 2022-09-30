@@ -1,2 +1,2 @@
 test merge=ours
-add.php merge=ours
+app.php merge=ours
